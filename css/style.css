@@ -117,6 +117,16 @@ p {
     line-height: 20px;  
 }
 
+
+
+.intro__img {
+    width: 505px;
+    height: 571px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 /* Button
 ========================*/
 
